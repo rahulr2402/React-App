@@ -17,7 +17,7 @@ class App extends React.Component {
            In this way, many flowering plants have co-evolved with pollinators to be mutually dependent on services they provide to one another—in the plant's case, a means of reproduction; in the pollinator's case, a source of food.
   </p>
          </div>
-         <img src="image/flowerss2.jpg" alt="An Error Occured!"/>
+         <img src="image/Flowerss2.jpg" alt="An Error Occured!"/>
        </div>
    );
   }
